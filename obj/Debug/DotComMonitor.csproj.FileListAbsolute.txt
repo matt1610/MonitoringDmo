@@ -1,0 +1,8 @@
+c:\users\matthews\documents\visual studio 2015\Projects\DotComMonitor\DotComMonitor\bin\Debug\DotComMonitor.exe.config
+c:\users\matthews\documents\visual studio 2015\Projects\DotComMonitor\DotComMonitor\bin\Debug\DotComMonitor.exe
+c:\users\matthews\documents\visual studio 2015\Projects\DotComMonitor\DotComMonitor\bin\Debug\DotComMonitor.pdb
+c:\users\matthews\documents\visual studio 2015\Projects\DotComMonitor\DotComMonitor\bin\Debug\Newtonsoft.Json.dll
+c:\users\matthews\documents\visual studio 2015\Projects\DotComMonitor\DotComMonitor\bin\Debug\Newtonsoft.Json.xml
+c:\users\matthews\documents\visual studio 2015\Projects\DotComMonitor\DotComMonitor\obj\Debug\DotComMonitor.csprojResolveAssemblyReference.cache
+c:\users\matthews\documents\visual studio 2015\Projects\DotComMonitor\DotComMonitor\obj\Debug\DotComMonitor.exe
+c:\users\matthews\documents\visual studio 2015\Projects\DotComMonitor\DotComMonitor\obj\Debug\DotComMonitor.pdb
